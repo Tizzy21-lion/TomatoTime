@@ -66,3 +66,6 @@ npm run dist     # 输出 nsis 安装包 + portable 便携版
 ## License
 
 MIT
+
+## 产品试用
+https://github.com/Tizzy21-lion/TomatoTime/releases/tag/v1.0.0
